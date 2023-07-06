@@ -2,5 +2,5 @@
 
 # Trying to make an HTML only webpage 
 
-# Attempting to add CSS 
+# Attempting to add CSS to my HTML webpage 
 
