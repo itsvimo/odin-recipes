@@ -1,6 +1,7 @@
 # odin-recipes
 
-# Trying to make an HTML only webpage 
+# Hi my name is Vimo, this is my first attempt at making a website! 
 
-# Attempting to add CSS to my HTML webpage 
+# First I will be using HTML to create the text, CSS to style the webpage.
 
+# Follow me along this coding journey :D 
