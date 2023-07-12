@@ -14,6 +14,20 @@
   background-position: center;
 }
 
+.box {
+  margin: 50px;
+  border-width: 5px;
+  border-color: brown;
+  border-style: solid;
+}
+
+.recipe-box {
+  margin: 10px;
+  border-width: 5px;
+  border-color: brown;
+  border-style: solid;
+}
+
 .buttons{
   align-items: center;
   padding-top: 20px;
@@ -59,7 +73,12 @@ button {
   font-weight: bold; 
   color: black;
 }
+ .r-border {
+  text-align: left;
+  background: brown;
+  border-right-color: black;
+  border-right-style: solid;
+  border-right-width: 20px;
 
-
-
+ }
 
